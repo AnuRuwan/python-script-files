@@ -1,2 +1,2 @@
 # python-script-files
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnuRuwan/script-files/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnuRuwan/script-files/R-script)
